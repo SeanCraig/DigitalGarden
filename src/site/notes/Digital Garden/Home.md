@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/home/","tags":["gardenEntry"],"noteIcon":"","created":"2026-03-28T15:42:29.475+00:00","updated":"2026-03-28T16:39:44.126+00:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/digital-garden/home/","tags":["gardenEntry"],"noteIcon":"","created":"2026-03-28T15:42:29.475+00:00","updated":"2026-03-28T16:43:32.628+00:00","dg-note-properties":{}}
 ---
 
 
 
 ## Hero section
 
-**Thought Garden**  
-A personal digital garden of notes, ideas, reflections, and things I’m still figuring out.
+**Thought Garden** is my personal digital garden: a living collection of notes, reflections, and connected ideas. It’s part notebook, part archive, part workshop.
 
 This is not a polished blog or a final body of work. It’s a living collection of thoughts in progress. Some notes are half-formed, some are practical, and some may change completely as I learn more.
 
