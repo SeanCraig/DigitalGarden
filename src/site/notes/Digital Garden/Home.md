@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/home/","tags":["gardenEntry"],"noteIcon":"","created":"2026-03-28T15:42:29.475+00:00","updated":"2026-03-28T16:43:32.628+00:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/digital-garden/home/","tags":["gardenEntry"],"noteIcon":"","created":"2026-03-28T15:42:29.475+00:00","updated":"2026-03-28T17:08:38.584+00:00","dg-note-properties":{}}
 ---
 
 
@@ -41,6 +41,3 @@ I’m interested in clarity over performance, usefulness over polish, and progre
 
 This site is a place to collect what I’m learning, notice recurring themes, and build a body of knowledge that reflects how thinking actually works: gradually, unevenly, and often by surprise.
 
-## Short version
-
-**Thought Garden** is my personal digital garden: a living collection of notes, reflections, and connected ideas. It’s part notebook, part archive, part workshop.
