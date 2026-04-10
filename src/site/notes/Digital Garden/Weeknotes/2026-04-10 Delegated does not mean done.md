@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/weeknotes/2026-04-10-delegated-does-not-mean-done/","title":"Weeknote - 10 April 2026","tags":["weeknotes","delivery","reflection"],"noteIcon":"","created":"2026-04-10T17:58:27.752+01:00","updated":"2026-04-10T18:02:30.653+01:00","dg-note-properties":{"title":"Weeknote - 10 April 2026","tags":["weeknotes","delivery","reflection"],"created":"2026-04-10","type":"weeknote"}}
+{"dg-publish":true,"permalink":"/digital-garden/weeknotes/2026-04-10-delegated-does-not-mean-done/","title":"2026-04-10 Delegated does not mean done","tags":["weeknotes","delivery","reflection"],"noteIcon":"","created":"2026-04-10T17:58:27.752+01:00","updated":"2026-04-10T19:31:31.789+01:00","dg-note-properties":{"title":"2026-04-10 Delegated does not mean done","tags":["weeknotes","delivery","reflection"],"created":"2026-04-10","type":"weeknote"}}
 ---
 
 
