@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas/04-writing/digital-garden/00-home/","title":"Home","tags":["gardenEntry"],"noteIcon":"","created":"2026-04-20T11:19:33.376+01:00","updated":"2026-05-01T14:05:54.121+01:00","dg-note-properties":{"title":"Home"}}
+{"dg-publish":true,"permalink":"/02-areas/04-writing/digital-garden/00-home/","title":"Home","tags":["gardenEntry"],"noteIcon":"","created":"2026-04-20T11:19:33.376+01:00","updated":"2026-05-07T13:27:23.789+01:00","dg-note-properties":{"title":"Home"}}
 ---
 
 
@@ -43,7 +43,8 @@ This site is a place to collect what I’m learning, notice recurring themes, an
 
 ## Latest
 
-[[02. Areas/04. Writing/Digital Garden/Weeknotes/2026-05-01 Weeknote - The Spirit of the Thing\|2026-05-01 Weeknote - The Spirit of the Thing]]
+[[02. Areas/04. Writing/Digital Garden/Weeknotes/2026-05-07 Weeknote - The Short Week That Wasn't\|2026-05-07 Weeknote - The Short Week That Wasn't]]
+
 → [[02. Areas/04. Writing/Digital Garden/01 Weeknotes\|All weeknotes]]
 
 ## Essays
