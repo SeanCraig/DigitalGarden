@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas/04-writing/digital-garden/weeknotes/2026-05-01-weeknote-the-spirit-of-the-thing/","title":"Being in the Room","tags":["weeknotes","delivery","reflection","process","onboarding"],"noteIcon":"","created":"2026-05-01T11:33:46.386+01:00","updated":"2026-05-01T11:33:46.386+01:00","dg-note-properties":{"title":"Being in the Room","tags":["weeknotes","delivery","reflection","process","onboarding"],"created":"2026-05-01","type":"weeknote"}}
+{"dg-publish":true,"permalink":"/02-areas/04-writing/digital-garden/weeknotes/2026-05-01-weeknote-the-spirit-of-the-thing/","title":"Being in the Room","tags":["weeknotes","delivery","reflection","process","onboarding"],"noteIcon":"","created":"2026-05-01T11:33:46.386+01:00","updated":"2026-05-02T17:54:30.000+01:00","dg-note-properties":{"title":"Being in the Room","tags":["weeknotes","delivery","reflection","process","onboarding"],"created":"2026-05-01","type":"weeknote"}}
 ---
 
 
@@ -16,9 +16,6 @@ The National PIFU end-to-end plan is the other thread running through the week �
 Finished [[03. Resources/70. Book Notes/Stillness is the Key — Ryan Holiday\|Stillness is the Key]] this week. Leaning into Stoic philosophy more deliberately lately — turns out apatheia (the absence of turbulence, not feeling) is basically a superpower in delivery work.
 
 Also working through [[03. Resources/70. Book Notes/Flow — Mihaly Csikszentmihalyi\|Flow]]. The uncomfortable bit: most people experience more flow at work than anywhere else, yet spend their lives wishing they were somewhere else. Still sitting with that one.
-
-## Linked notes
-- [[Reengineering the how\|Reengineering the how]]
 
 ## Lesson learned
 **The process work is the delivery work.** Reengineering how onboarding flows doesn't show up as a feature delivered or a milestone closed. But if it works, it shortens everything that comes after it.
