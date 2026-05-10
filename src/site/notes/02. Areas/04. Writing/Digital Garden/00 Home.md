@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas/04-writing/digital-garden/00-home/","title":"Home","tags":["gardenEntry"],"noteIcon":"","created":"2026-04-20T11:19:33.376+01:00","updated":"2026-05-07T13:27:23.789+01:00","dg-note-properties":{"title":"Home"}}
+{"dg-publish":true,"permalink":"/02-areas/04-writing/digital-garden/00-home/","title":"Home","tags":["gardenEntry"],"noteIcon":"","created":"2026-05-10T08:13:21.687+01:00","updated":"2026-05-10T08:13:21.688+01:00","dg-note-properties":{"title":"Home"}}
 ---
 
 
@@ -51,8 +51,19 @@ This site is a place to collect what I’m learning, notice recurring themes, an
 
 Longer notes exploring delivery leadership, systems thinking, and how work actually moves.
 
+**Delivery and operating model**
 - [[02. Areas/04. Writing/Digital Garden/Delegated does not mean done\|Delegated does not mean done]] — Delegation transfers execution, not accountability.
 - [[02. Areas/04. Writing/Digital Garden/Kanban, feedback loops, and waiting on\|Kanban, feedback loops, and waiting on]] — Why "waiting on" needs its own state.
 - [[02. Areas/04. Writing/Digital Garden/Team Topologies and the cost of distance\|Team Topologies and the cost of distance]] — Scaling is a design problem, not a headcount problem.
 - [[02. Areas/04. Writing/Digital Garden/Further reading on delegation, visibility, and scale\|Further reading on delegation, visibility, and scale]] — Questions and experiments worth exploring.
+- [[02. Areas/04. Writing/Digital Garden/Cognitive Biases in Delivery Leadership\|Cognitive Biases in Delivery Leadership]] — 12 biases that reliably distort delivery decisions, and how to counter them.
+
+**Career, mastery, and meaning**
+- [[02. Areas/04. Writing/Digital Garden/The Passion Myth\|The Passion Myth]] — "Follow your passion" is backwards. Passion is downstream of mastery, not a prerequisite for it.
+- [[02. Areas/04. Writing/Digital Garden/Deliberate Practice — How to Actually Get Better\|Deliberate Practice — How to Actually Get Better]] — Why most people plateau, and what separates activity from practice.
+- [[02. Areas/04. Writing/Digital Garden/The Arrival Fallacy\|The Arrival Fallacy]] — Why hitting the milestone won't fix it, and what to aim at instead.
+- [[02. Areas/04. Writing/Digital Garden/Attention as the Primary Resource\|Attention as the Primary Resource]] — What you attend to is your life. The leadership implications of that.
+
+**Wellbeing**
+- [[02. Areas/04. Writing/Digital Garden/Social Fitness\|Social Fitness]] — The 85-year Harvard finding: good relationships predict longevity more than anything else.
 
