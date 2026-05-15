@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas/04-writing/digital-garden/00-home/","title":"Home","tags":["gardenEntry"],"noteIcon":"","created":"2026-05-10T08:13:21.687+01:00","updated":"2026-05-10T08:13:21.688+01:00","dg-note-properties":{"title":"Home"}}
+{"dg-publish":true,"permalink":"/02-areas/04-writing/digital-garden/00-home/","title":"Home","tags":["gardenEntry"],"noteIcon":"","created":"2026-05-15T13:34:49.322+01:00","updated":"2026-05-15T13:34:49.322+01:00","dg-note-properties":{"title":"Home"}}
 ---
 
 
@@ -43,7 +43,7 @@ This site is a place to collect what I’m learning, notice recurring themes, an
 
 ## Latest
 
-[[02. Areas/04. Writing/Digital Garden/Weeknotes/2026-05-07 Weeknote - The Short Week That Wasn't\|2026-05-07 Weeknote - The Short Week That Wasn't]]
+[[02. Areas/04. Writing/Digital Garden/Weeknotes/2026-05-15 Weeknote - Homeostasis With a Bigger Headcount\|2026-05-15 Weeknote - Homeostasis With a Bigger Headcount]]
 
 → [[02. Areas/04. Writing/Digital Garden/01 Weeknotes\|All weeknotes]]
 

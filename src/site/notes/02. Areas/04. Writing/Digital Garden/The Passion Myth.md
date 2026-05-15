@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas/04-writing/digital-garden/the-passion-myth/","title":"The Passion Myth","tags":["career","mastery","motivation","coaching","leadership"],"noteIcon":"","created":"2026-05-10T08:06:10.574+01:00","updated":"2026-05-10T08:06:11.255+01:00","dg-note-properties":{"title":"The Passion Myth","tags":["career","mastery","motivation","coaching","leadership"],"created":"2026-05-09","type":"evergreen","source":"So Good They Can't Ignore You, Flow, Man's Search for Meaning, The Pathless Path, Four Thousand Weeks"}}
+{"dg-publish":true,"permalink":"/02-areas/04-writing/digital-garden/the-passion-myth/","title":"The Passion Myth","tags":["career","mastery","motivation","coaching","leadership"],"noteIcon":"","created":"2026-05-10T12:23:38.844+01:00","updated":"2026-05-10T12:23:38.844+01:00","dg-note-properties":{"title":"The Passion Myth","tags":["career","mastery","motivation","coaching","leadership"],"created":"2026-05-09","type":"evergreen","source":"So Good They Can't Ignore You, Flow, Man's Search for Meaning, The Pathless Path, Four Thousand Weeks, Ikigai"}}
 ---
 
 
@@ -40,6 +40,16 @@ Aspiration (purpose-driven: what are we trying to make better, and for whom?) vs
 
 ---
 
+## A Cross-Cultural Footnote: Ikigai
+
+Before Newport, Frankl, or Csikszentmihalyi, Japanese culture had already mapped this territory. Ikigai — "reason for being" — frames fulfilment not as finding your passion, but as finding the overlap of four things: what you love, what you're good at, what the world needs, and what you can be paid for.
+
+The passion hypothesis treats the first of these quadrants as if it contains the whole. Ikigai says that without the others, passion alone produces delight without sustainability — an enjoyable hobby that can't hold a life. The diagram calls this zone "delight and fullness, but no wealth" — not a failure, but not a destination either.
+
+This maps directly onto the craftsman argument: becoming excellent at something you love (quadrant one and two) and ensuring it matters to someone and can sustain you (three and four) is the actual work. Passion shows up in the overlap. It is not the entry requirement — it is what you find there once you've done the work of getting in. *See: [[02. Areas/04. Writing/Digital Garden/One Thing Is Never Enough\|One Thing Is Never Enough]].*
+
+---
+
 ## The Synthesis
 
 The consistent finding across all five: **passion is downstream, not upstream.**
@@ -69,7 +79,9 @@ The best coaching response: redirect from "what am I passionate about?" to "what
 
 ## Related
 
+- [[02. Areas/04. Writing/Digital Garden/One Thing Is Never Enough\|One Thing Is Never Enough]] — the full Ikigai system; why the passion quadrant alone isn't sufficient
 - [[02. Areas/04. Writing/Digital Garden/Deliberate Practice — How to Actually Get Better\|Deliberate Practice — How to Actually Get Better]] — the mechanism
 - [[02. Areas/04. Writing/Digital Garden/The Arrival Fallacy\|The Arrival Fallacy]] — why achieving the "right" goal won't fix things either
+- [[02. Areas/04. Writing/Digital Garden/Social Fitness\|Social Fitness]] — the relationship quadrant; what mission and vocation require to be sustainable
 - [[02. Areas/04. Writing/Digital Garden/Cognitive Biases in Delivery Leadership\|Cognitive Biases in Delivery Leadership]] — related biases in career decisions
 - [[02. Areas/04. Writing/Digital Garden/Attention as the Primary Resource\|Attention as the Primary Resource]] — attention directed toward mastery, not passion-seeking

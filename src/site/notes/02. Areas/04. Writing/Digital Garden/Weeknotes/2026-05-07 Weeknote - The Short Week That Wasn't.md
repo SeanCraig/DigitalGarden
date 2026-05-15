@@ -17,7 +17,7 @@ The lesson for me from this week isn't "protect your calendar better." It's that
 
 ## Linked notes
 
-- [[Thinking, Fast and Slow\|Thinking, Fast and Slow]]
+- [[00. Inbox/Thinking, Fast and Slow\|Thinking, Fast and Slow]]
 - [[The Pathless Path\|The Pathless Path]]
 
 ## Lesson learned
