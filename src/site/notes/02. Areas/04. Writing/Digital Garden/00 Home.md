@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-areas/04-writing/digital-garden/00-home/","title":"Home","tags":["gardenEntry"],"noteIcon":"","created":"2026-05-15T13:34:49.322+01:00","updated":"2026-06-04T15:21:50.149+01:00","dg-note-properties":{"title":"Home"}}
+{"dg-publish":true,"permalink":"/02-areas/04-writing/digital-garden/00-home/","title":"Home","tags":["gardenEntry"],"noteIcon":"","created":"2026-06-13T16:09:06.444+01:00","updated":"2026-06-13T16:09:06.444+01:00","dg-note-properties":{"title":"Home"}}
 ---
 
 
@@ -43,7 +43,7 @@ This site is a place to collect what I’m learning, notice recurring themes, an
 
 ## Latest
 
-[[02. Areas/04. Writing/Digital Garden/Weeknotes/2026-06-04 Weeknote - The Gain inside the Gap\|2026-06-04 Weeknote - The Gain inside the Gap]]
+[[02. Areas/04. Writing/Digital Garden/Weeknotes/2026-06-13 Weeknote - Playing in Position\|2026-06-13 Weeknote - Playing in Position]]
 
 → [[02. Areas/04. Writing/Digital Garden/01 Weeknotes\|All weeknotes]]
 
